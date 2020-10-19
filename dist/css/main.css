@@ -193,7 +193,7 @@ a {
     border: 2px solid rgba(4, 112, 220, 0.6);
     transition: border .2s ease; }
     .carsoule__control .arrow i {
-      color: #045CB4;
+      color: #4aa5ff;
       font-size: 1.7rem; }
     .carsoule__control .arrow:hover {
       border: 2px solid #0470DC; }
@@ -211,8 +211,8 @@ a {
     .carsoule__track .indicator {
       width: 1.3rem;
       height: 1.3rem;
-      background-color: #045CB4;
-      border: 2px solid #045CB4;
+      background-color: #4aa5ff;
+      border: 2px solid #4aa5ff;
       border-radius: 100%; }
       .carsoule__track .indicator:not(:last-child) {
         margin-right: .8rem; }
@@ -506,7 +506,7 @@ a {
     position: absolute;
     height: inherit;
     width: 100%;
-    background: linear-gradient(to right bottom, rgba(4, 92, 180, 0.4), rgba(4, 112, 220, 0.4));
+    background: linear-gradient(to right bottom, rgba(74, 165, 255, 0.4), rgba(4, 112, 220, 0.4));
     z-index: 1; }
   .banner__content {
     position: relative;
@@ -557,7 +557,7 @@ a {
   .accordion__item:not(:last-child) {
     margin-bottom: 2rem; }
   .accordion__item-header {
-    border: 2px solid #045CB4;
+    border: 2px solid #4aa5ff;
     border-radius: 5rem;
     max-height: 6rem;
     line-height: 1.5rem;
@@ -887,7 +887,7 @@ a {
       font-weight: 700;
       margin-bottom: 1.5rem; }
     .services__cards:hover .services__cards-icon {
-      background-color: #045CB4; }
+      background-color: #4aa5ff; }
     .services__cards:hover i {
       color: #fff; }
     .services__cards:hover h3 {
