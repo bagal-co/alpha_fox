@@ -4,6 +4,10 @@
   width: 90%;
   margin: 0 auto;
   height: 45rem;
+
+  @include respond(tab_land){
+    width: 95%;
+  }
 }
 .carsoule{
   width: 100%;
